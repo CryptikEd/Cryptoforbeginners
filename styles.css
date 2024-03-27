@@ -75,3 +75,61 @@ body {
     display: block;
   }
 
+  .page-area {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+
+  .page-area h2 {
+    font-size: 24px;
+    color: #333; 
+  }
+
+  .page-area p {
+    font-size: 16px;
+    color: #555; 
+  }
+
+  .back-to-top {
+    display: inline-block;
+    text-align: center;
+    padding: 8px 16px;
+    background-color: #f2f2f2;
+    color: #333;
+    text-decoration: none;
+    margin-top: 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+
+  .back-to-top:hover {
+    background-color: #e0e0e0;
+  }
+
+  .background-text {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .background-text div {
+    flex: 1; 
+    padding: 0 10px; 
+    text-align: center; 
+  }
+
+  .underline {
+    height: 2px;
+    width: 100%;
+    background: linear-gradient(to right, #00cc66, #009933); 
+    margin-bottom: 20px;  
+  }
+
+  .page-area p {
+    text-align: left;
+  }
+
+  .crypto-image {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+  }
