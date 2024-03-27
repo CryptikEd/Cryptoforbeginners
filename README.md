@@ -82,5 +82,3 @@ The live link can be found [here](https://code-institute-org.github.io/love-runn
 - The photos used on the Home page are sourced from Pixabay, an open-source platform for high-quality images.
 
 ---
-
-Congratulations on completing your Crypto For Beginners Readme! If you have any questions or need further assistance, feel free to reach out!
