@@ -136,3 +136,13 @@ body{
     text-align: left;
     font-size: 12px;
   }
+
+  .logo-image{
+    height: 100px;
+    width: 100px;
+  }
+
+.xrp-image{
+  height: 100px;
+  width: 50px;
+}
