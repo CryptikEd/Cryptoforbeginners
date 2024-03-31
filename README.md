@@ -80,15 +80,25 @@ The live link can be found [here](https://code-institute-org.github.io/love-runn
 
 ### Content
 
-- The information provided throughout the Crypto For Beginners website was gathered from various reputable sources covering topics related to cryptocurrency, including articles, whitepapers and educational resources.
+- The information provided throughout the Crypto For Beginners website was gathered from various reputable sources covering topics related to cryptocurrency, including articles, whitepapers and educational resources:
   
-- [History of crypto](https://worldcoin.org/articles/history-of-cryptocurrency)
-- [Electronic Cash System](https://revelointel.com/project-breakdown/bitcoin)
-- [Blockchain & cryptocurrencies](https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html)
+  [History of crypto](https://worldcoin.org/articles/history-of-cryptocurrency)
+  
+  [Electronic Cash System](https://revelointel.com/project-breakdown/bitcoin)
+  
+  [Blockchain & cryptocurrencies](https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html)
+
+- The Header and Footer color gradient was taken from WC3Schools color picker:
+  
+  [WC3School color picker](https://www.w3schools.com/colors/colors_picker.asp)
+
+  The font was chosen from WC3Schools CSS Web Safe Fonts
+
+    [WC3School CSS web safe fonts](https://www.w3schools.com/cssref/css_websafe_fonts.php)
   
 ### Media
 
-- The photos used on the Home page are sourced from Pixabay, an open-source platform for high-quality images.
+- The images used on the Home page are sourced from Pixabay, an open-source platform for high-quality images.
 
 ---
 
