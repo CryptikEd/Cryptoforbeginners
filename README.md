@@ -98,7 +98,17 @@ The live link can be found [here](https://code-institute-org.github.io/love-runn
   
 ### Media
 
-- The images used on the Home page are sourced from Pixabay, an open-source platform for high-quality images.
+- The images used on the Home page are sourced from Pixabay and Crypto logos, an open-source platform for high-quality images.
 
----
-
+   [Pixabay link for the main image.](https://pixabay.com/vectors/image-set-interface-pictogram-3375234/)
+ 
+   [Bitcoin, Ethereum and Ripple logos with links.](https://cryptologos.cc/)
+ 
+  
+- The links used for the logos on the top 3 cryptocurrencies.
+  
+  [Bitcoin's website.](https://bitcoin.org/en/)
+  
+  [Ethereum's website.](https://bitcoin.org/en/)
+  
+  [Ripple's website.](https://ripple.com/)
