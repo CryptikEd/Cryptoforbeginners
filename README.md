@@ -1,6 +1,6 @@
 # Crypto For Beginners
 
-![Project Image](https://pixabay.com/vectors/image-set-interface-pictogram-3375234/)
+![Project Image](assets/Cryptocurrenciesmainimage.svg)
 
 > A beginner-friendly guide to understanding cryptocurrency.
 
