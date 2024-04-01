@@ -8,7 +8,6 @@ body{
     background:linear-gradient(to right,#00cc66, #009933);
     color:white;
     text-align:left;
-    padding:20px;
     width:100%;
   }
 
@@ -16,6 +15,8 @@ body{
     font-size:48px;
     font-weight: bold;
     text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5);
+    padding-left: 18px;
+    padding-top: 20px;
   }
 
  .headline:hover::after {
@@ -36,13 +37,15 @@ body{
     font-weight:bold;
     text-transform:lowercase;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-    width:100%;
     text-align: left;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 0px;
   }
 
   nav {
     background-color: #f2f2f2;
-    padding: 10px 20px;
+    padding: 0px 0px;
     width:100%;
   }
 
@@ -108,29 +111,29 @@ body{
   }
 
   .background-text div {
-    padding: 0 10px; 
-    text-align: center;
+    padding: 10px; 
+    text-align: left;
     flex-basis: 100%;
   }
 
   .underline {
-    height: 2px;
+    height: 3px;
     width: 100%;
     background: linear-gradient(to right, #00cc66, #009933); 
-    margin-bottom: 20px;  
+    margin-bottom: 20px;
+    margin-top: 20px;  
   }
 
   .crypto-image{
     max-width: 100%;
     max-height:100%;
-    display:block;
-    margin: 0 auto;
   }
 
   .footer-gradient {
       height:20px;
       background:linear-gradient(to right,#00cc66, #009933);
       width:100%;
+      padding:0px 0px;
   }
 
   .crypto-description {
@@ -148,4 +151,10 @@ body{
 .xrp-image{
   height: 100px;
   width: 50px;
+}
+
+@media screen and (max-width: 500px) {
+  .background-text {
+   flex-wrap: wrap;
+  }
 }
