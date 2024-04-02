@@ -1,9 +1,11 @@
+  /* Reset default margin and padding, set font family */
 body{
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
  }
 
+ /* Header styles */
  header {
     background:linear-gradient(to right,#00cc66, #009933);
     color:white;
@@ -11,7 +13,8 @@ body{
     width:100%;
   }
 
-.headline, .footer-gradient {
+  /* Headline and footer gradient styles */
+  .headline, .footer-gradient {
     font-size:48px;
     font-weight: bold;
     text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5);
@@ -19,6 +22,7 @@ body{
     padding-top: 20px;
   }
 
+  /* Hover effect for headline */
  .headline:hover::after {
     display: block;
     position: absolute;
@@ -32,6 +36,7 @@ body{
     transform: translateX(-50%);
   }
 
+  /* Subheadline styles */
   .subheadline {
     font-size:16px;
     font-weight:bold;
@@ -42,6 +47,7 @@ body{
     padding-bottom: 20px;
   }
 
+  /* Navigation menu styles */
   nav {
     background-color: #f2f2f2;
     padding: 0px 0px;
@@ -84,11 +90,13 @@ body{
     z-index: 1;
   }
 
+  /* Main Image styles */
   .crypto-image {
     width: 80vw;
     height: 80vh;
   }
 
+  /* Back to top link styles */
   .back-to-top {
     position: fixed;
     bottom: 20px;
@@ -109,6 +117,7 @@ body{
     background-color: #e0e0e0;
   }
 
+    /* Text section styles */
   .background-text {
     display: flex;
     justify-content: space-between;
@@ -120,6 +129,7 @@ body{
     flex-basis: 100%;
   }
 
+    /* Underline styles */
   .underline {
     height: 3px;
     width: 100%;
@@ -128,6 +138,7 @@ body{
     margin-top: 0px;  
   }
 
+    /* Footer gradient styles */
   .footer-gradient {
       height:20px;
       background:linear-gradient(to right,#00cc66, #009933);
@@ -136,6 +147,7 @@ body{
       padding-top: 20px;
   }
 
+    /* Cryptocurrency description styles */
   .crypto-description {
     background-color: #f2f2f2;
     padding: 10px;
@@ -143,16 +155,19 @@ body{
     font-size: 12px;
   }
 
+    /* Logo image styles */
   .logo-image{
     height: 100px;
     width: 100px;
   }
 
+    /* Custom XRP logo image style */
   .xrp-image{
   height: 100px;
   width: 50px;
   }
 
+   /* H2 heading styles */
   .h2 {
     padding-left: 20px;
     text-align: left;
@@ -161,6 +176,7 @@ body{
     text-shadow: 2px 2px 4px rgba(145, 150, 143, 0.5);
   }
 
+    /* Top three cryptocurrencies section styles */
   .top-three {
     display: flex;
     flex-basis: 100%; 
@@ -169,6 +185,7 @@ body{
     justify-content: space-between;
   }
 
+  /* Footer styles */
   footer{
   background: linear-gradient(to right, #00cc66, #009933);
   color:white;
@@ -178,6 +195,7 @@ body{
   text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5);
   }
 
+  /* Welcome message styles */
   .welcome{
     text-align: center;
     color: #777777;
@@ -185,7 +203,7 @@ body{
     font-size: 15px;
   }
 
-
+    /* Responsive styles for smaller screens */
   @media screen and (max-width: 768px) {
   .background-tex, .top-three {
    flex-wrap: wrap;
