@@ -85,9 +85,8 @@ body{
   }
 
   .crypto-image {
-    max-width: 100%;
-    max-height: 100%;
-    background-color: #ccc;
+    width: 80vw;
+    height: 80vh;
   }
 
   .back-to-top {
@@ -177,9 +176,18 @@ body{
   width: 100%;
   font-weight: bold;
   text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5);
-}
+  }
 
-@media screen and (max-width: 768px) {
+  .welcome{
+    text-align: center;
+    color: #777777;
+    text-shadow: 3px 3px 3px rgba(177, 185, 178, 0.418);
+    font-size: 15px;
+  }
+
+
+  @media screen and (max-width: 768px) {
   .background-tex, .top-three {
    flex-wrap: wrap;
+  }
   }
