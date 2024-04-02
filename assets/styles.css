@@ -163,7 +163,7 @@ body{
 
   .top-three {
     display: flex;
-    flex-basis: 100%; /* Ensure each paragraph takes full width on smaller screens */
+    flex-basis: 100%; 
     padding: 10px;
     text-align: center;
     justify-content: space-between;
