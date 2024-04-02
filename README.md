@@ -14,7 +14,28 @@ Whether you're curious about Bitcoin, Ethereum, Ripple or other cryptocurrencies
 Targeted towards individuals who are seeking to understand cryptocurrency from scratch, Crypto for Beginners offers educational content covering the background of cryptocurrency, its prospects, different types of cryptocurrencies, and more. 
 The user-friendly interface and clear explanations make complex topics accessible to anyone interested in exploring the world of cryptocurrencies.
 
+Link to live website [here](https://cryptiked.github.io/Cryptoforbeginners/)
+
 ---
+## User Experience (UX)
+
+- *Target audience*
+  -  Users who are looking for a an easy-going way to learn about cryptocurrency
+    
+- *User Stories*
+  - A user should be able to understand the sites purpose immediately.
+  - A user should be able navigate the site easily and intuitively.
+  - A user should be able to identify the content of each section easily.
+
+## Website aim
+    
+  - Deliver easy and accessible information for anyone intrested in learning more about cryptocurrency.
+  - To provide current up-to-date content information about cryptocurrency.
+  - To provide valuable links for ther users on going search for knowledge about cryptocurrency.
+
+## Wireframes
+
+    
 
 ## Features
 
