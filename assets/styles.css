@@ -4,7 +4,7 @@ body{
     font-family: Arial, sans-serif;
  }
 
- header, footer {
+ header {
     background:linear-gradient(to right,#00cc66, #009933);
     color:white;
     text-align:left;
@@ -40,7 +40,6 @@ body{
     text-align: left;
     padding-left: 20px;
     padding-bottom: 20px;
-    padding-right: 0px;
   }
 
   nav {
@@ -85,11 +84,16 @@ body{
     z-index: 1;
   }
 
+  .crypto-image {
+    max-width: 100%;
+    max-height: 100%;
+  }
+
   .back-to-top {
     position: fixed;
-    bottom: 40px;
+    bottom: 20px;
     left: 50%;
-    transform: translate(-50%);
+    transform: translateX(-50%);
     display: inline-block;
     text-align: center;
     padding: 8px 16px;
@@ -119,14 +123,9 @@ body{
   .underline {
     height: 3px;
     width: 100%;
-    background: linear-gradient(to right, #00cc66, #009933); 
+    background: linear-gradient(to right, #9ea09f, #121413);
     margin-bottom: 20px;
-    margin-top: 20px;  
-  }
-
-  .crypto-image{
-    max-width: 100%;
-    max-height:100%;
+    margin-top: 0px;  
   }
 
   .footer-gradient {
@@ -134,6 +133,7 @@ body{
       background:linear-gradient(to right,#00cc66, #009933);
       width:100%;
       padding:0px 0px;
+      padding-top: 20px;
   }
 
   .crypto-description {
@@ -148,12 +148,37 @@ body{
     width: 100px;
   }
 
-.xrp-image{
+  .xrp-image{
   height: 100px;
   width: 50px;
+  }
+
+  .h2 {
+    padding-left: 20px;
+    text-align: left;
+    font-weight: bold;
+    color: #505250;
+    text-shadow: 2px 2px 4px rgba(145, 150, 143, 0.5);
+  }
+
+  .top-three {
+    display: flex;
+    flex-basis: 100%; /* Ensure each paragraph takes full width on smaller screens */
+    padding: 10px;
+    text-align: center;
+    justify-content: space-between;
+  }
+
+  footer{
+  background: linear-gradient(to right, #00cc66, #009933);
+  color:white;
+  text-align: left;
+  width: 100%;
+  font-weight: bold;
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5);
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 768px) {
   .background-text {
    flex-wrap: wrap;
   }
