@@ -89,7 +89,7 @@ Wireframes was created for desktop using balsamiq.
 
 ## Features
 
-The website contains of four sections besides the main landing page: About, Background, Future and Top 3 crypto. It is very easily navigated with different page areas that are targeted in the navigation bar. For extra ease there is a fixed back-to-top button
+The website contains of four sections besides the main landing page: About, Background, Future and Top 3 crypto. It is very easily navigated with different page areas that are targeted in the navigation bar. For extra ease there is a fixed back-to-top button. In the Top 3 Crypto section there are three external links that lets the user open a new tab with each respective Cryptocurrency website.
 
 - *Navigation Bar*
   - The fully responsive navigation bar is prominently featured on the Crypto for Beginners main page, providing easy access to essential sections such as About, Background, Future, and 3 Cryptos. This consistent navigation ensures users can seamlessly explore different aspects of cryptocurrency education without any hassle.
