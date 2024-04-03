@@ -45,6 +45,17 @@ Link to live website [here](https://cryptiked.github.io/Cryptoforbeginners/)
 
 * [Features left to implement](#features-left-to-implement)
 
+* [Deployment](#deployment)
+
+* [Local Development ](#local-development) 
+  * [How to fork>](#how-to-fork)
+  * [How to clone](#how-to-clone)
+
+* [Credits](#credits)
+  * [Content](#content)
+  * [Media](#media)
+  * [Acknowledgement ](#acknowledgement)
+
 ---
 ## User Experience (UX)
 
