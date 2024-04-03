@@ -77,7 +77,7 @@ Link to live website [here](https://cryptiked.github.io/Cryptoforbeginners/)
     - Deliver easy to understand and accessible information for anyone interested in learning more about cryptocurrency.
     - To provide up-to-date information about cryptocurrency
     - To provide valuable links for the user in their on-going search for knowledge about crypto
-      
+
 ---
 
 ## Design
@@ -125,6 +125,8 @@ Wireframes was created for desktop using balsamiq.
 
 ![Main Page](assets/Wireframeimage/wireframeff.PNG)
 
+
+[Back to top](<#contents>)
 ---
 
 ## Features
@@ -167,6 +169,7 @@ The website contains of four sections besides the main landing page: About, Back
 
   ![Top 3 Crypto](assets/images/snapshotscfb/top3crypto.PNG)
 
+ [Back to top](<#contents>)
  ---
 
  ## Technologies Used
@@ -232,7 +235,8 @@ During the testing of responsiveness on different dimensions, there was an issue
 Images could not upload in the beginning. It was resolved when I changed the location and gave the realtive path.
 
 Many small design flaws, which I throughout the project resolved.
-
+ 
+ [Back to top](<#contents>)
 ---
 
 ## Features Left to Implement
@@ -283,7 +287,8 @@ To clone the repository:
 3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
-
+ 
+ [Back to top](<#contents>)
 ---
 
 ## Credits
@@ -326,3 +331,7 @@ To clone the repository:
 ### Acknowledgement 
 
 This website was developed as part of my project portfolio during my Fullstack Software Developer Diploma course. I would like to give a special thanks to my mentor Jubril and my tutor Kay for giving me helpful tips along the way. I also want to give a shout out to the slack community for many interesting and helpful posts.
+
+ 
+[Back to top](<#contents>)
+---
