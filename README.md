@@ -171,6 +171,7 @@ Crypto For Beginners underwent rigorous testing to ensure functionality, usabili
 
 ### Feature testing
 
+![Featuretesting](assets/images/Featuretesting.png)
 
 ### Validator Testing
 
@@ -181,7 +182,7 @@ Crypto For Beginners underwent rigorous testing to ensure functionality, usabili
 
 ### Bugs
 
-During the testing of responsiveness on different dimensions, there is an issue that effects the main image, the image description and underlines so they do not adhere to the 100% width across all devices.
+During the testing of responsiveness on different dimensions, there is an issue that effects the main image, the image description and underlines so they do not adhere to the 100% width across all devices. The issue was resolved using media query for stacking elements when under 768 pixels.
 
 ---
 
@@ -211,7 +212,28 @@ The Crypto For Beginners website was deployed to GitHub Pages. The deployment pr
 
     7. Click View deployment to see the live site. 
 
+
 The live link can be found [here](https://cryptiked.github.io/Cryptoforbeginners/).
+
+## Local Development
+
+  - ### How to Fork
+
+To fork the repository:
+
+1. Log in (or sign up) to Github.
+2. Go to the repository for this project, [Cryptiked/Cryptoforbeginners ](https://cryptiked.github.io/Cryptoforbeginners/)
+3. Click the Fork button in the top right corner.
+
+  - ### How to clone
+
+To clone the repository:
+
+1. Log in (or sign up) to GitHub.
+2. Go to the repository for this project, [Cryptiked/Cryptoforbeginners ](https://cryptiked.github.io/Cryptoforbeginners/))
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
 
 ---
 
