@@ -51,6 +51,8 @@ As the Hero Image is the focal point when entering the website, I opted to keep 
   - I used ... for the hero image description
   - I used ... for all underlines
   - I used ... for the back to top
+ 
+![Crypto For Beginners Color Scheme](documentation/color-scheme.webp)
 
 - ### Typography
 
@@ -61,6 +63,8 @@ The fonts used throughout the website was imported from W3C School. They are all
   - I used ... for the sites different section headlines
   - I used ... for the welcome text above the hero image
   - I used ... for the text in the different sections and navigation bar
+ 
+![W3C Font Example](documentation/almendra.webp)
 
 - ### Imagery
 
@@ -68,11 +72,19 @@ Given the website's focus on cryptocurrency, I aimed for a hero image that not o
 
 The other two images were chosen as they suited the overall design, color scheme and content. They also have a bit of playfullness to them which I think goes well with beginner-friendly theme of the website.
 
+---
+
 ## Wireframes
 
-Wireframes was created for desktop
+Wireframes was created for desktop using balsamiq. 
 
-    
+*Although wireframe only was created for desktop, the responsiveness on different screensizes were considered and resolved through media queries* 
+
+![Main Page](documentation/wireframes/homewireframe.webp)
+![About/Future Section](documentation/wireframes/homewireframe.webp) 
+![Top 3 crypto Section](documentation/wireframes/homewireframe.webp)
+
+---
 
 ## Features
 
@@ -82,7 +94,9 @@ Wireframes was created for desktop
 
 - *Back to the top*
   - As the user enters different sections (page areas), there is a “back to the top” button, that makes it easy for the user to go back to the navigation bar without the hassle of scrolling.
- 
+
+---
+
 ## Main page
 
 - *Image*
