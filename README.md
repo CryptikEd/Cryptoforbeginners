@@ -15,10 +15,40 @@ The user-friendly interface and clear explanations make complex topics accessibl
 
 Link to live website [here](https://cryptiked.github.io/Cryptoforbeginners/)
 
+# Contents
+
+* [User Experience](#user-experience-ux)
+  * [Target Audience](#target-audience)
+  * [User Stories](#user-stories)
+  * [Website Aim](#website-aim)
+
+* [Design](#design)
+  * [Color Scheme](#color-scheme)
+  * [Typography](#typography)
+  * [Imagery](#imagery)
+
+* [Wireframes](#wireframes)
+
+* [Features](#features)
+
+* [Main page](#main-page)
+
+* [Technologies Used](#technologies-used) 
+
+* [Accessibility ](#accessibility)
+
+* [Testing](#testing)
+  * [Feature Testing](#feature-testing)
+  * [Validator Testing](#validator-testing)
+  * [Browser Testing](#browser-testing)
+  * [Bugs](#bugs)
+
+* [Features left to implement](#features-left-to-implement)
+
 ---
 ## User Experience (UX)
 
-- ### Target audience
+- ### Target Audience
   
   -  Users who are looking for a an easy-going way to learn about cryptocurrency
     
@@ -31,7 +61,7 @@ Link to live website [here](https://cryptiked.github.io/Cryptoforbeginners/)
   - A user should be able to identify the content of each section easily.
 
   
--  ### Website aim
+-  ### Website Aim
 
     - Deliver easy to understand and accessible information for anyone interested in learning more about cryptocurrency.
     - To provide up-to-date information about cryptocurrency
@@ -180,9 +210,17 @@ Crypto For Beginners underwent rigorous testing to ensure functionality, usabili
 - *CSS*
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/).
 
+### Browser testing
+
+![Browsertesting](assets/images/Browsertesting.png)
+
 ### Bugs
 
-During the testing of responsiveness on different dimensions, there is an issue that effects the main image, the image description and underlines so they do not adhere to the 100% width across all devices. The issue was resolved using media query for stacking elements when under 768 pixels.
+During the testing of responsiveness on different dimensions, there was an issue that effects the hero image, the image description and underlines so they do not adhere to the 100% width across all devices. The issue was resolved using media query for stacking elements when under 768 pixels.
+
+Images could not upload in the beginning. It was resolved when I changed the location and gave the realtive path.
+
+Many small design flaws, which I throughout the project resolved.
 
 ---
 
@@ -273,3 +311,7 @@ To clone the repository:
   [Ethereum's website.](https://bitcoin.org/en/)
   
   [Ripple's website.](https://ripple.com/)
+
+### Acknowledgement 
+
+This website was developed as part of my project portfolio during my Fullstack Software Developer Diploma course. I would like to give a special thanks to my mentor Jubril and my tutor Kay for giving me helpful tips along the way. I also want to give a shout out to the slack community for many interesting and helpful posts.
