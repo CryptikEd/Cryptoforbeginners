@@ -53,7 +53,7 @@ As the Hero Image is the focal point when entering the website, I opted to keep 
   - I used ... for the back to top
 
  
-![Crypto For Beginners Color Scheme](documentation/color-scheme.webp)
+![Crypto For Beginners Color Scheme](assets/images/colorscheme.png)
 
 - ### Typography
 
