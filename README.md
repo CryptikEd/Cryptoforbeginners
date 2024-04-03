@@ -1,17 +1,16 @@
 # Crypto For Beginners
 
-![Project Image](assets/Cryptocurrenciesmainimage.svg)
+![Project Image](assets/Testing/responsivetestimage.PNG)
 
-> A beginner-friendly guide to understanding cryptocurrency.
+A beginner-friendly guide to understanding cryptocurrency!
 
 ---
 
 ## Description
 
-Crypto for Beginners is not just another website; it's a gateway for beginners to enter the exciting realm of cryptocurrency with confidence. Our website aims to provide individuals who are new to the digital asset space with an easy-to-understand overview of key concepts, trends, and developments in the crypto sphere. 
-Whether you're curious about Bitcoin, Ethereum, Ripple or other cryptocurrencies, Crypto for beginners offers valuable insights to help you navigate this rapidly evolving landscape.
+Crypto for Beginners is not just another website; it's a gateway for beginners to enter the exciting realm of cryptocurrency with confidence. The website aims to provide individuals who are new to the digital asset space with an easy-to-understand overview of key concepts, trends, and developments in the crypto sphere. Whether you're curious about Bitcoin, Ethereum, Ripple or other cryptocurrencies, Crypto for beginners offers valuable insights to help you navigate this rapidly evolving landscape.
 
-Targeted towards individuals who are seeking to understand cryptocurrency from scratch, Crypto for Beginners offers educational content covering the background of cryptocurrency, its prospects, different types of cryptocurrencies, and more. 
+Targeted towards individuals who are seeking to understand cryptocurrency from scratch, Crypto for Beginners offers content covering the background of cryptocurrency, its prospects, different types of cryptocurrencies, and more. 
 The user-friendly interface and clear explanations make complex topics accessible to anyone interested in exploring the world of cryptocurrencies.
 
 Link to live website [here](https://cryptiked.github.io/Cryptoforbeginners/)
@@ -19,21 +18,59 @@ Link to live website [here](https://cryptiked.github.io/Cryptoforbeginners/)
 ---
 ## User Experience (UX)
 
-- *Target audience*
+- ### Target audience
+  
   -  Users who are looking for a an easy-going way to learn about cryptocurrency
     
-- *User Stories*
+- ### User Stories
+  
+  #### *First time visitor goals*
+  
   - A user should be able to understand the sites purpose immediately.
   - A user should be able navigate the site easily and intuitively.
   - A user should be able to identify the content of each section easily.
 
-## Website aim
-    
-  - Deliver easy and accessible information for anyone intrested in learning more about cryptocurrency.
-  - To provide current up-to-date content information about cryptocurrency.
-  - To provide valuable links for ther users on going search for knowledge about cryptocurrency.
+  
+-  ### Website aim
+
+    - Deliver easy to understand and accessible information for anyone interested in learning more about cryptocurrency.
+    - To provide up-to-date information about cryptocurrency
+    - To provide valuable links for the user in their on-going search for knowledge about crypto
+      
+---
+
+## Design
+
+-  ### Color scheme
+
+As the Hero Image is the focal point when entering the website, I opted to keep the overall color scheme quite small. And since it is about currency a. k. a. money, I gravitated towards the green color palette. To make sure the green does not become overwhelmning I chose a gradient green color for the Header and Footer, but kept the rest of the colors in neutral grey.
+
+- Colors
+  - I used ... for Header and Footer
+  - I used ... for the navigation bar
+  - I used ... for the hero image description
+  - I used ... for all underlines
+  - I used ... for the back to top
+
+- ### Typography
+
+The fonts used throughout the website was imported from W3C School. They are all arial/sans sarif. I used font family to be able to keep the same text style throughout the website.
+
+- Text colors
+  - I used ... for inside Header and Footer, to make sure sufficient contrasting
+  - I used ... for the sites different section headlines
+  - I used ... for the welcome text above the hero image
+  - I used ... for the text in the different sections and navigation bar
+
+- ### Imagery
+
+Given the website's focus on cryptocurrency, I aimed for a hero image that not only clearly represents the website's subject matter but also serves as an educational resource. This led me to select an image featuring various cryptocurrency logos, with each brand listed in the image description.
+
+The other two images were chosen as they suited the overall design, color scheme and content. They also have a bit of playfullness to them which I think goes well with beginner-friendly theme of the website.
 
 ## Wireframes
+
+Wireframes was created for desktop
 
     
 
