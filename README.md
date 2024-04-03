@@ -55,6 +55,8 @@ As the Hero Image is the focal point when entering the website, I opted to keep 
  
 ![Crypto For Beginners Color Scheme](assets/images/colorscheme.png)
 
+![Green color gradient](assets/images/greencolorgradient.PNG)
+
 - ### Typography
 
 The fonts used throughout the website was imported from W3C School. They are all arial/sans sarif. I used font family to be able to keep the same text style throughout the website.
@@ -81,9 +83,7 @@ Wireframes was created for desktop using balsamiq.
 
 *Although wireframe only was created for desktop, the responsiveness on different screensizes were considered and resolved through media queries* 
 
-![Main Page](documentation/wireframes/homewireframe.webp)
-![About/Future Section](documentation/wireframes/homewireframe.webp) 
-![Top 3 crypto Section](documentation/wireframes/homewireframe.webp)
+![Main Page](assets/Wireframeimage/wireframeff.PNG)
 
 ---
 
@@ -95,6 +95,9 @@ The website contains of four sections besides the main landing page: About, Back
   - The fully responsive navigation bar is prominently featured on the Crypto for Beginners main page, providing easy access to essential sections such as About, Background, Future, and 3 Cryptos. This consistent navigation ensures users can seamlessly explore different aspects of cryptocurrency education without any hassle.
   - It is particularly valuable for individuals who are new to the website and want to navigate between sections efficiently to learn more about cryptocurrency. 
 
+  
+  ![Navigation bar](assets/images/snapshotscfb/navigationbar.png)
+
 - *Back to the top*
   - As the user enters different sections (page areas), there is a “back to the top” button, that makes it easy for the user to go back to the navigation bar without the hassle of scrolling.
 
@@ -105,6 +108,8 @@ The website contains of four sections besides the main landing page: About, Back
 - *Image*
   - Underneath the navigation bar there is a picture of different cryptocurrency logos to give the user a clear indication of what the website is about. On the bottom of the image there is a numbered list featuring the name of the cryptocurrency logos, so the user knows exactly what they are looking at.
   
+  ![Main image](assets/images/snapshotscfb/Mainimage.PNG)
+
 - *About*
   - The About section offers users an insightful overview of the Crypto for Beginners project, including my own journey, target audience, and the value it aims to provide. This section is vital for users seeking to understand the purpose and relevance of the website, helping them grasp the significance of learning about cryptocurrency in a beginner-friendly manner.
 
@@ -119,6 +124,8 @@ The website contains of four sections besides the main landing page: About, Back
 - *Top 3 Cryptocurrencies*
   - The Top 3 Cryptocurrencies gives an overview of the most popular cryptocurrencies, including Bitcoin, Ethereum, and Ripple, along with their unique features and use cases. By showcasing prominent cryptocurrencies, this section helps users explore the diversity of digital assets and understand their functionalities.
     It is particularly valuable for individuals looking to expand their knowledge and make informed decisions about cryptocurrency investments or participation in blockchain networks. Each cryptocurrency described has its own logo presented, and if pressed it will link the user to an external tab to their respective website.
+
+  ![Top 3 Crypto](assets/images/snapshotscfb/top3crypto.PNG)
 
  ## Features Left to Implement
 
