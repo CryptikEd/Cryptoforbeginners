@@ -51,6 +51,7 @@ As the Hero Image is the focal point when entering the website, I opted to keep 
   - I used ... for the hero image description
   - I used ... for all underlines
   - I used ... for the back to top
+
  
 ![Crypto For Beginners Color Scheme](documentation/color-scheme.webp)
 
@@ -87,6 +88,8 @@ Wireframes was created for desktop using balsamiq.
 ---
 
 ## Features
+
+The website contains of four sections besides the main landing page: About, Background, Future and Top 3 crypto. It is very easily navigated with different page areas that are targeted in the navigation bar. For extra ease there is a fixed back-to-top button
 
 - *Navigation Bar*
   - The fully responsive navigation bar is prominently featured on the Crypto for Beginners main page, providing easy access to essential sections such as About, Background, Future, and 3 Cryptos. This consistent navigation ensures users can seamlessly explore different aspects of cryptocurrency education without any hassle.
