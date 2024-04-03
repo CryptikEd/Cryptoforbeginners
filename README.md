@@ -138,15 +138,39 @@ The website contains of four sections besides the main landing page: About, Back
 - VScode - Used initially to write and test code 
 - Paint - Used to resize images for readme content
 
- ## Features Left to Implement
+## Accessibility
 
-- Addition of a glossary section to explain common terms and acronyms used in the cryptocurrency space.
+Throughout the developing of the website it has been of importance to ensure that it is as accessible as possible. This was achieved by:
+
+  - Using semantic markup HTML
+  - Using a hover function on all areas in the header, to make sure the user knows what its specific use is
+  - Using a sans serif font, that is suitable for people with reading disabilities
+  - Using colors that are contrasting to make it easy to read 
 
 ---
 
 ## Testing
 
 Crypto For Beginners underwent rigorous testing to ensure functionality, usability, and compatibility across different browsers and devices. Validation tests confirmed the absence of errors in both HTML and CSS code. The website was tested on various browsers and screen sizes to ensure a consistent and optimal user experience.
+
+- HTML validator test
+
+![HTML](assets/Testing/htmlvalidatortest.PNG)
+
+- CSS validator test
+
+![CSS](assets/Testing/cssvalidatortest.PNG)
+
+- Lighthouse test: mobile 
+
+![Lighthouse](assets/Testing/mobilelighthousetest.png)
+
+- Lighthouse test: desktop
+
+![Lighthouse](assets/Testing/desktoplighthousetest.png)
+
+### Feature testing
+
 
 ### Validator Testing
 
@@ -155,11 +179,16 @@ Crypto For Beginners underwent rigorous testing to ensure functionality, usabili
 - *CSS*
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/).
 
-### Unfixed Bugs
+### Bugs
 
 During the testing of responsiveness on different dimensions, there is an issue that effects the main image, the image description and underlines so they do not adhere to the 100% width across all devices.
 
 ---
+
+## Features Left to Implement
+
+- Addition of a glossary section to explain common terms and acronyms used in the cryptocurrency space.
+
 
 ## Deployment
 
