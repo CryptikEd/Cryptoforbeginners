@@ -46,11 +46,10 @@ Link to live website [here](https://cryptiked.github.io/Cryptoforbeginners/)
 As the Hero Image is the focal point when entering the website, I opted to keep the overall color scheme quite small. And since it is about currency a. k. a. money, I gravitated towards the green color palette. To make sure the green does not become overwhelmning I chose a gradient green color for the Header and Footer, but kept the rest of the colors in neutral grey.
 
 - Colors
-  - I used ... for Header and Footer
-  - I used ... for the navigation bar
-  - I used ... for the hero image description
-  - I used ... for all underlines
-  - I used ... for the back to top
+  - I used #00cc66 ,#009933 for Header and Footer
+  - I used #f2f2f2 for the navigation bar
+  - I used #9ea09f, #121413 for all underlines
+  - I used #e0e0e0 for the back to top
 
  
 ![Crypto For Beginners Color Scheme](assets/images/colorscheme.png)
@@ -59,15 +58,15 @@ As the Hero Image is the focal point when entering the website, I opted to keep 
 
 - ### Typography
 
-The fonts used throughout the website was imported from W3C School. They are all arial/sans sarif. I used font family to be able to keep the same text style throughout the website.
+The fonts used throughout the website was imported from W3Schools. They are all arial/sans sarif. I used font family to be able to keep the same text style throughout the website.
 
 - Text colors
-  - I used ... for inside Header and Footer, to make sure sufficient contrasting
-  - I used ... for the sites different section headlines
-  - I used ... for the welcome text above the hero image
-  - I used ... for the text in the different sections and navigation bar
+  - I used #FFFFFF for inside Header and Footer, to make sure sufficient contrasting
+  - I used #505250 for the sites different section headlines
+  - I used #242524d8 for the welcome text above the hero image
+  - I used #000000 for the text in the different sections and navigation bar
  
-![W3C Font Example](documentation/almendra.webp)
+![W3Schools Font Example](assets/images/Fontfamily.PNG)
 
 - ### Imagery
 
@@ -127,6 +126,18 @@ The website contains of four sections besides the main landing page: About, Back
 
   ![Top 3 Crypto](assets/images/snapshotscfb/top3crypto.PNG)
 
+ ---
+
+ ## Technologies Used
+
+- HTML5 - Delivers the stucture and content for the website
+- CSS3 - Provides the styling for the website
+- Balsamiq - Used to create wireframes for the website
+- Gitpod - Used to develop the website and to push changes to Github repository 
+- Github - Used to host and deploy the website
+- VScode - Used initially to write and test code 
+- Paint - Used to resize images for readme content
+
  ## Features Left to Implement
 
 - Addition of a glossary section to explain common terms and acronyms used in the cryptocurrency space.
@@ -154,7 +165,24 @@ During the testing of responsiveness on different dimensions, there is an issue 
 
 The Crypto For Beginners website was deployed to GitHub Pages. The deployment process involved configuring the repository settings to deploy from the master branch, resulting in automatic deployment upon selection. Users can access the deployed website through the GitHub Pages link.
 
-The live link can be found [here](https://code-institute-org.github.io/love-running-2.0/index.html).
+    1. Go to the Settings tab of your GitHub repo.
+
+    2. On the left-hand sidebar, in the Code and automation section, select Pages.
+
+    3. Make sure:
+      -Source is set to 'Deploy from Branch'.
+      -Main branch is selected.
+      -Folder is set to / (root).
+
+    4. Under Branch, click Save.
+
+    5. Go back to the Code tab. Wait a few minutes for the build to finish and refresh your repo.
+
+    6. On the right-hand side, in the Environments section, click on 'github-pages'.
+
+    7. Click View deployment to see the live site. 
+
+The live link can be found [here](https://cryptiked.github.io/Cryptoforbeginners/).
 
 ---
 
